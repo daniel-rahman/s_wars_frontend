@@ -18,7 +18,7 @@ This is a Star Wars search application that allows users to search through Star 
 
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
-3. Run `npm start` to start the application on `localhost:3000`.
+3. Run `npm run start` to start the application on `localhost:3000`.
 
 # Getting Started with Create React App
 
